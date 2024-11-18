@@ -9,7 +9,7 @@ const posts = [ {
     likes_count:1256,
     comments_id: 100 
 },{  
-    id : 2,
+    id : 2,   
     user_id :1,
     image_url : 'http://localhost:8080/static/asset/46.jpg',
     description : "",
