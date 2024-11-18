@@ -26,7 +26,7 @@ const posts = [ {
     comments_id: 100 
 },{
     id : 4,
-    user_id :1,
+    user_id :3,
     image_url : 'http://localhost:8080/static/asset/51.jpg',
     description : "",
     date : new Date(),
